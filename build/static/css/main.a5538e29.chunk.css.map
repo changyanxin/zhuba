@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAEC,EACC,QAAQ,CACR,SACF,CACA,GACE,eACF,CACA,gBAEE,aACF","file":"main.a5538e29.chunk.css","sourcesContent":["@import '~antd/dist/antd.css';\n\n *{\n  margin:0;\n  padding:0;\n}\nli{\n  list-style:none;\n}\n.flex-container {\n  /* margin-top:20px; */\n  margin: 0 15px;\n}\n"]}
